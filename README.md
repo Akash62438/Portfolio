@@ -1,6 +1,6 @@
 <img width="960" alt="Screenshot 2024-11-04 231641" src="https://github.com/user-attachments/assets/320c9841-0ad3-4611-8561-42aae799932a">
 
-
+CHECK MY PORTFOLIO  : [https://akash62438.github.io/Portfolio/]
 
 A portfolio is a collection of work samples and documents that demonstrate an individual's skills, experience, and accomplishments. It's commonly used in creative fields like graphic design, photography, writing, and web development, but can also apply to other industries like finance, education, and consulting.
 
